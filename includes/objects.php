@@ -70,8 +70,41 @@
 			echo "date : ".$this->_date."<br />";
 			echo "author : ".$this->_author."<br />";
 			echo "text : ".$this->_text."<br />";
+		}	
+	}
+
+	class Button
+	{
+		private $_name;
+		private $_link;
+
+		public function __construct($name, $link)
+		{
+			$this->_name = $name;
+			$this->_link = $link;
 		}
 
-		
+		public function setName($name)
+		{
+			$this->_name = $name;
+		}
+		public function getName()
+		{
+			return $this->_name;
+		}
+
+		public function setLink($link)
+		{
+			$this->_link = $link;
+		}
+		public function getLink()
+		{
+			return $this->_link;
+		}
+
+		public function toHtml()
+		{
+			echo "<td onclick='location=\"".$this->_link."\"'>".$this->_name."</td>";
+		}
 	}
 ?>
