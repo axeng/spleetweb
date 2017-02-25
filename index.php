@@ -7,6 +7,6 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		MAIN PAGE
+		MAIN PAGE FIRST PAGE
 	</body>
 </html>
