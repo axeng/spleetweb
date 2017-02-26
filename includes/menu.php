@@ -6,13 +6,11 @@
 	$buttons[] = new Button("TELECHARGEMENTS", "download.php");
 	$buttons[] = new Button("BIBLIOGRAPHIE", "source.php");
 ?>
-<table align="center">
+<table align="center" class="menuTable">
 	<tr>
 		<?php 
 			foreach ($buttons as $button) {
-				if ($button->getLink() != basename($_SERVER['PHP_SELF'])) {
-					$button->toHtml();
-				}
+				$button->toHtml($button->getLink() == basename($_SERVER['PHP_SELF']));
 			}
 		?>
 	</tr>

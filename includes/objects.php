@@ -128,9 +128,15 @@
 			return $this->_link;
 		}
 
-		public function toHtml()
+		public function toHtml($select)
 		{
-			echo "<td onclick='location=\"".$this->_link."\"'>".$this->_name."</td>";
+			$cssClasss = "button buttonCellMenu";
+			if ($select)
+			{
+				$cssClasss = $cssClasss." buttonCellMenu-selected";
+			}
+
+			echo "<td class='".$cssClasss."' onclick='location=\"".$this->_link."\"'>".$this->_name."</td>";
 		}
 	}
 ?>
