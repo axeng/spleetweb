@@ -71,6 +71,32 @@
 			echo "author : ".$this->_author."<br />";
 			echo "text : ".$this->_text."<br />";
 		}	
+
+		public function getTable()
+		{
+			?>
+			<table>
+				<tr>
+					<td>
+						name : <?php echo $this->_name;?>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						date : <?php echo $this->_date;?>
+					</td>
+					<td>
+						author : <?php echo $this->_author;?>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<?php echo $this->_text; ?>
+					</td>
+				</tr>
+			</table>
+			<?php
+		}
 	}
 
 	class Button

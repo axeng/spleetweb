@@ -73,10 +73,11 @@
 			} catch (Exception $e) {
 				print 'Exception : '.  $e->getMessage(). "<br />";
 			}
-
-
-
+			echo "<br />";
+			echo "<br />";
+			foreach ($news as $n) {
+				$n->getTable();
+			}
 		?>
-		NEWS
 	</body>
 </html>
