@@ -3,7 +3,8 @@
 	<head>
 		<meta name="viewport" content="width=device-width" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<?php include"styles/style.php"; ?>		
+		<?php include"styles/style.php"; ?>	
+		<title>Bibliographie</title>	
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
