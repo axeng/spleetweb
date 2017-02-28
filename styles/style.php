@@ -39,4 +39,9 @@ body
 	transform: translateY(-6.5px);
 }
 
+.download {
+	font-style: italic;
+}
+
+
 </style>
