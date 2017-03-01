@@ -55,7 +55,7 @@
 				    						break;
 
 				    					case "TEXT":
-				    						$text = $new->getText().$line;
+				    						$text = $new->getText().$line."<br />";
 			    							$new->setText($text);
 				    						break;
 				    				}
@@ -78,6 +78,7 @@
 			echo "<br />";
 			foreach ($news as $n) {
 				$n->getTable();
+				echo "<br />";
 			}
 		?>
 	</body>

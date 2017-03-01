@@ -43,5 +43,9 @@ body
 	font-style: italic;
 }
 
+.newsPost {
+	width: 800px;
+}
+
 
 </style>

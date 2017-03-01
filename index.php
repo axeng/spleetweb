@@ -8,6 +8,6 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		MAIN PAGE FIRST PAGE
+		MAIN PAGE
 	</body>
 </html>

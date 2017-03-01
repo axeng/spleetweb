@@ -75,7 +75,7 @@
 		public function getTable()
 		{
 			?>
-			<table>
+			<table align="center" class="newsPost">
 				<tr>
 					<td>
 						name : <?php echo $this->_name;?>
