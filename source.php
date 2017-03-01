@@ -8,6 +8,6 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		SOURCE
+		SOURCES
 	</body>
 </html>
