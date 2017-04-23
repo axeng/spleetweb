@@ -8,6 +8,11 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		MAIN PAGE
+		<div align="center">
+			<br />
+			SITE WEB JEUX VIDEO SPLEET
+			<br />
+			REALISE DANS LE CADRE DU PROJET D'IP D'EPITA EN S2
+		</div>
 	</body>
 </html>
