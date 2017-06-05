@@ -1,8 +1,8 @@
 <?php  require "includes/objects.php"; ?>
 
-<div align="center" style="height: 250px" >
+<div align="center" style="width: : 100%" >
 	<a href="index.php">
-		<img src="images/logo_latest.png" alt="logo" style="height:100%">
+		<img src="images/logo_latest.jpg" alt="logo" style="width: 100%">
 	</a>
 </div>
-<?php include "menu.php"; ?>
+<?php include "menu.php"; ?>	
