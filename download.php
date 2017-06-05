@@ -31,6 +31,12 @@
 			<a class="download" target="_blank" href="files/documents/s1/r_s1.pdf">r_s1.pdf</a>	
 			<h3>Plan de soutenance</h3>
 			<a class="download" target="_blank" href="files/documents/s1/p_s1.pdf">p_s1.pdf</a>	
+
+			<h2>SOUTENANCE 2</h2>
+			<h3>Rapport de soutenance</h3>
+			<a class="download" target="_blank" href="files/documents/s2/r_s2.pdf">r_s2.pdf</a>	
+			<h3>Plan de soutenance</h3>
+			<a class="download" target="_blank" href="files/documents/s2/p_s2.pdf">p_s2.pdf</a>	
 		</div>
 
 		<?php include "includes/footer.php"; ?>
