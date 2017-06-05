@@ -14,7 +14,6 @@
 			<br />
 			REALISE DANS LE CADRE DU PROJET D'IP D'EPITA EN S2
 			<br />
-			TEST
 		</div>
 	</body>
 </html>
