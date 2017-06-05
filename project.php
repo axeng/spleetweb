@@ -8,7 +8,7 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		<table align="center" class="newsPost">
+		<table align="center" class="contentBody">
 			<tr><td>
 				<br />
 				<h1>Bienvenue dans SPLEET !</h1>

@@ -50,6 +50,11 @@ body
 
 .newsPost {
 	width: 65%;
+	border-bottom: 2px solid black;
+}
+
+.contentBody {
+	width: 65%;
 }
 
 
