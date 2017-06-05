@@ -32,5 +32,7 @@
 			<h3>Plan de soutenance</h3>
 			<a class="download" target="_blank" href="files/documents/s1/p_s1.pdf">p_s1.pdf</a>	
 		</div>
+
+		<?php include "includes/footer.php"; ?>
 	</body>
 </html>

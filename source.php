@@ -20,5 +20,7 @@
 			<br />
 			- MSDN : <a class="download" target="_blank" href="https://msdn.microsoft.com/">Site internet</a>
 		</div>
+
+		<?php include "includes/footer.php"; ?>
 	</body>
 </html>
