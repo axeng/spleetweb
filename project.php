@@ -63,5 +63,7 @@
 				Cette technique permet d’être plus productif que si il fallait mettre un sol puis mettre un mur à droite puis un mur à gauche et ainsi de suite… 
 			</td></tr>
 		</table>
+
+		<?php include "includes/footer.php"; ?>
 	</body>
 </html>

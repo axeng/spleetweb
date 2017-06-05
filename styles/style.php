@@ -10,6 +10,11 @@ body
 	/*font-family: 'Vollkorn', serif;
 	font-family: 'PT Sans', sans-serif;*/
 	font-family: 'Titillium Web', sans-serif;
+	margin: 0px;
+
+	background: url(images/border-left.png) left repeat-y, url(images/border-right.png) right repeat-y;
+	/*background: url(images/border-right) right repeat-y;*/
+    background-size: 20%;
 }
 
 .button {
@@ -44,7 +49,7 @@ body
 }
 
 .newsPost {
-	width: 800px;
+	width: 65%;
 }
 
 

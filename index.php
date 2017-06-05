@@ -15,5 +15,6 @@
 			REALISE DANS LE CADRE DU PROJET D'IP D'EPITA EN S2
 			<br />
 		</div>
+		<?php include "includes/footer.php"; ?>
 	</body>
 </html>
