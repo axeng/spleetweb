@@ -9,12 +9,16 @@
 	<body>
 		<?php include "includes/header.php"; ?>
 		
-		<div align="center">
+		<table align="center" class="contentBody2">
+			<tr><td>
 
-			<h1>JEU</h1>
+			<h1>Jeu</h1>
 
-			<h2>LATEST</h2>
+			<h2>Dernière version</h2>
 			<a class="download" target="_blank" href="files/game/latest.zip">latest.zip</a>
+
+			<h2>V0.2</h2>
+			<a class="download" target="_blank" href="files/game/v0-2.zip">v0-2.zip</a>
 
 			<h2>V0.1</h2>
 			<a class="download" target="_blank" href="files/game/v0-1.zip">v0-1.zip</a>
@@ -22,22 +26,28 @@
 
 			<br />
 			<br />
-			<h1>DOCUMENTS</h1>
+			<h1>Documents</h1>
 			<h2>Cahier des charges</h2>
 			<a class="download" target="_blank" href="files/documents/cdc_latest.pdf">cdc_latest.pdf</a>			
 
-			<h2>SOUTENANCE 1</h2>
-			<h3>Rapport de soutenance</h3>
+			<h2>Soutenance 1</h2>
+			<h4>Rapport de soutenance</h4>
 			<a class="download" target="_blank" href="files/documents/s1/r_s1.pdf">r_s1.pdf</a>	
-			<h3>Plan de soutenance</h3>
+			<h4>Plan de soutenance</h4>
 			<a class="download" target="_blank" href="files/documents/s1/p_s1.pdf">p_s1.pdf</a>	
 
-			<h2>SOUTENANCE 2</h2>
-			<h3>Rapport de soutenance</h3>
+			<h2>Soutenance 2</h2>
+			<h4>Rapport de soutenance</h4>
 			<a class="download" target="_blank" href="files/documents/s2/r_s2.pdf">r_s2.pdf</a>	
-			<h3>Plan de soutenance</h3>
+			<h4>Plan de soutenance</h4>
 			<a class="download" target="_blank" href="files/documents/s2/p_s2.pdf">p_s2.pdf</a>	
-		</div>
+
+			<h2>Rapport de projet</h2>
+			<a class="download" target="_blank" href="files/documents/rpf_latest.pdf">rpf_latest.pdf</a>	
+
+
+			</td></tr>
+		</table>
 
 		<?php include "includes/footer.php"; ?>
 	</body>

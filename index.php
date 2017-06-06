@@ -8,13 +8,16 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		<div align="center">
-			<br />
-			SITE WEB JEUX VIDEO SPLEET
-			<br />
-			REALISE DANS LE CADRE DU PROJET D'IP D'EPITA EN S2
-			<br />
-		</div>
+		<table align="center" class="contentBody2">
+			<tr><td>
+				<br />
+				Site Internet du jeu vidéo Spleet
+				<br />
+				<br />
+				Réalisé dans le cadre du projet d'informatique pratique dans le cadre de la première année du cycle préparatoir d'Epita.
+				<br />
+			</td></tr>
+		</table>
 		<?php include "includes/footer.php"; ?>
 	</body>
 </html>
