@@ -56,6 +56,10 @@ body
 .contentBody {
 	width: 65%;
 }
+.contentBody2 {
+	text-align: center;
+	width: 65%;
+}
 
 
 </style>

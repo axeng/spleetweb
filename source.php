@@ -8,18 +8,20 @@
 	</head>
 	<body>
 		<?php include "includes/header.php"; ?>
-		<div align="center">
-			<br />
-			- UNITY : <a class="download" target="_blank" href="https://unity3d.com/fr/">Site internet</a>
-			<br />
-			- GitHub : <a class="download" target="_blank" href="https://github.com/">Site internet</a>
-			<br />
-			- Cinema4D Tutorial : <a class="download" target="_blank" href="https://fr.tuto.com/cinema-4d/tuto-cinema-4d-gratuit.htm/">Site internet</a>
-			<br />
-			- Adobe Photoshop Tutorial : <a class="download" target="_blank" href="http://www.tutsps.com/">Site internet</a>
-			<br />
-			- MSDN : <a class="download" target="_blank" href="https://msdn.microsoft.com/">Site internet</a>
-		</div>
+		<table align="center" class="contentBody2">
+			<tr><td>
+				<br />
+				- UNITY : <a class="download" target="_blank" href="https://unity3d.com/fr/">Site internet</a>
+				<br />
+				- GitHub : <a class="download" target="_blank" href="https://github.com/">Site internet</a>
+				<br />
+				- Cinema4D Tutorial : <a class="download" target="_blank" href="https://fr.tuto.com/cinema-4d/tuto-cinema-4d-gratuit.htm/">Site internet</a>
+				<br />
+				- Adobe Photoshop Tutorial : <a class="download" target="_blank" href="http://www.tutsps.com/">Site internet</a>
+				<br />
+				- MSDN : <a class="download" target="_blank" href="https://msdn.microsoft.com/">Site internet</a>
+			</td></tr>
+		</table>
 
 		<?php include "includes/footer.php"; ?>
 	</body>
