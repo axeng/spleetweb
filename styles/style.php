@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" href="images/favicon.png" />
 <style>
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Vollkorn');
