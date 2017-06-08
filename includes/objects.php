@@ -78,7 +78,7 @@
 			<table align="center" class="newsPost">
 				<tr>
 					<td>
-						name : <?php echo $this->_name;?>
+						titre : <?php echo $this->_name;?>
 					</td>
 				</tr>
 				<tr>
@@ -86,7 +86,7 @@
 						date : <?php echo $this->_date;?>
 					</td>
 					<td>
-						author : <?php echo $this->_author;?>
+						auteur : <?php echo $this->_author;?>
 					</td>
 				</tr>
 				<tr>
