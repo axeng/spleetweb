@@ -17,6 +17,9 @@
 			<h2>Dernière version</h2>
 			<a class="download" target="_blank" href="files/game/latest.zip">latest.zip</a>
 
+			<h2>V1.0</h2>
+			<a class="download" target="_blank" href="files/game/v1-0.zip">v1-0.zip</a>
+
 			<h2>V0.2</h2>
 			<a class="download" target="_blank" href="files/game/v0-2.zip">v0-2.zip</a>
 
@@ -27,6 +30,13 @@
 			<br />
 			<br />
 			<h1>Documents</h1>
+
+			<h2>Manuel d'installation</h2>
+			<a class="download" target="_blank" href="files/documents/install_man.pdf">install_man.pdf</a>
+
+			<h2>Manuel d'utilisation</h2>
+			<a class="download" target="_blank" href="files/documents/user_man.pdf">user_man.pdf</a>
+
 			<h2>Cahier des charges</h2>
 			<a class="download" target="_blank" href="files/documents/cdc_latest.pdf">cdc_latest.pdf</a>			
 
