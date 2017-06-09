@@ -14,7 +14,7 @@
 				Site Internet du jeu vidéo Spleet
 				<br />
 				<br />
-				Réalisé dans le cadre du projet d'informatique pratique dans le cadre de la première année du cycle préparatoir d'Epita.
+				Réalisé dans le cadre du projet d'informatique pratique dans le cadre de la première année du cycle préparatoire d'Epita.
 				<br />
 			</td></tr>
 		</table>
